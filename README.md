@@ -1,9 +1,6 @@
 # fantasy_football_predicting_player_points
 FPL 4 -Predicting FPL player points based on predicted goals, scored, conceded and player form.
 
-# fantasy_football_predicting_team_goals_bayesian_ridge_regression
-FPL 2 -Creating a BayesianRidge linear regression model to predict the number of goals a football team will score and concede in future matches.
-
 ## Other Fantasy Football repositories
 
 FBREF Football Player Data Scraper - https://github.com/adamcorren/fbref_football_player_data_scraper
