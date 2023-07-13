@@ -11,7 +11,7 @@ Step 2: [Predicting team goals](https://github.com/adamcorren/fantasy_football_p
 
 Step 3: [Predicting clean sheats](https://github.com/adamcorren/fantasy_football_predicting_clean_sheet)
 
-Step 5: [Selecting teams](https://github.com/adamcorren/fantasy_football_selecting_teams)
+Step 5: [Selecting teams](https://github.com/adamcorren/fantasy_football_selecting_squads)
 
 PDF Report: [Project Report](https://github.com/adamcorren/fantasy_football_project_report)
 
